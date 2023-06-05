@@ -1,1 +1,1 @@
-# tradingview_script_best
+# tradingview_script_list
