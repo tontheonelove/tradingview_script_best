@@ -1,7 +1,7 @@
 # tradingview_script_list
 
 1. Machine Learning: Lorentzian Classification
-[Click link](https://github.com/tontheonelove/tradingview_script_best/blob/main/1.Machine%20Learning:%20Lorentzian%20Classification)
+[Code Here ](https://github.com/tontheonelove/tradingview_script_best/blob/main/1.Machine%20Learning:%20Lorentzian%20Classification)
 
 <img src = https://www.tradingview.com/x/Wgf11Nn5 />
 
