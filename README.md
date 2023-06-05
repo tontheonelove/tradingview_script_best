@@ -2,4 +2,4 @@
 
 1. Machine Learning: Lorentzian Classification
 
-<img src = https://www.tradingview.com/x/Wgf11Nn5 </>
+<img src = https://www.tradingview.com/x/Wgf11Nn5 />
