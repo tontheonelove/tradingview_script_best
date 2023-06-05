@@ -6,6 +6,6 @@
 <img src = https://www.tradingview.com/x/Wgf11Nn5 />
 
 2. SuperBollingerTrend
-[Code Here ](https://github.com/tontheonelove/tradingview_script_best/blob/main/2.%20SuperBollingerTrend))
+[Code Here ](https://github.com/tontheonelove/tradingview_script_best/blob/main/2.%20SuperBollingerTrend)
 
 <img src = https://www.tradingview.com/x/Kzd83RTH />
