@@ -16,7 +16,7 @@
 <img src = https://www.tradingview.com/x/MAZ6YEXV />
 
 4.Smart Money Concepts [LuxAlgo]
-[Code Here ](https://github.com/tontheonelove/tradingview_script_best/blob/main/3.%20Support%20Resistance%20Classification%20(VR)%20%5BLuxAlgo%5D)
+[Code Here ](https://github.com/tontheonelove/tradingview_script_best/blob/main/4.Smart%20Money%20Concepts%20%5BLuxAlgo%5D)
 
 <img src = https://www.tradingview.com/x/7hZJ5QNU />
 
