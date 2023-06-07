@@ -12,5 +12,5 @@
 
 3.
 
-<img src = Screenshot 2023-06-07 223716.png/>
+<img src=Screenshot 2023-06-07 223716.png/>
 
