@@ -10,3 +10,7 @@
 
 <img src = https://www.tradingview.com/x/Kzd83RTH />
 
+3. Support Resistance Classification (VR) [LuxAlgo]
+
+<img src = https://www.tradingview.com/x/MAZ6YEXV />
+
