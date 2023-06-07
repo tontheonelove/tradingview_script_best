@@ -11,7 +11,7 @@
 <img src = https://www.tradingview.com/x/Kzd83RTH />
 
 3. Support Resistance Classification (VR) [LuxAlgo]
-[Code Here ](https://github.com/tontheonelove/tradingview_script_best/blob/main/2.%20SuperBollingerTrend)
+[Code Here ](https://github.com/tontheonelove/tradingview_script_best/blob/main/3.%20Support%20Resistance%20Classification%20(VR)%20%5BLuxAlgo%5D)
 
 <img src = https://www.tradingview.com/x/MAZ6YEXV />
 
