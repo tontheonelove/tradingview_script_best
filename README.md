@@ -25,6 +25,9 @@
 
 <img src = https://www.tradingview.com/x/AZKwet4C />
 
+6.Trending RSI [ChartPrime]
+[Code Here ](https://github.com/tontheonelove/tradingview_script_best/blob/main/6.Trending%20RSI%20%5BChartPrime%5D)
 
+<img src =https://www.tradingview.com/x/mM0XrDSK/ />
 
 
